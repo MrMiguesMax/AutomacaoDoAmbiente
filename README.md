@@ -1,2 +1,2 @@
 # TechBuilders
-Construs seu futuro tecnológico
+Construa seu futuro tecnológico
