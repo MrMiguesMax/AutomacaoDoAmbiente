@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 400px;;
+}
+
+img{
+    height: 300px;
+    width: 500px;
+   
+   
+    
+}
